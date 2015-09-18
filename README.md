@@ -13,6 +13,23 @@ GUI Mockup
 Functions and Features
 
 Helpfull Sites:
+LAMP installation https://www.linux.com/learn/tutorials/288158-easy-lamp-server-installation
+Any questions? Email me at stevenmu@buffalo.edu
+
+Contact Info:
+
+Name: Steven Mundt
+Email: stevenm@buffalo.edu
+
+Name:
+Email:
+
+Name:
+Email:
+
+Name:
+Email:
+
 
 
 
@@ -23,4 +40,7 @@ Mockup Diagram
 Setup Stuff to Do
 
 Next Meeting Sept 22  at 12:30
+
+
+
 
