@@ -21,8 +21,8 @@ Contact Info:
 Name: Steven Mundt
 Email: stevenm@buffalo.edu
 
-Name:
-Email:
+Name: Junlin Tang   
+Email: junlinta@buffalo.edu
 
 Name:
 Email:
